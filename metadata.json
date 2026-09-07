@@ -1,0 +1,6 @@
+{
+  "name": "Cattle GPS Tracker System",
+  "description": "A specialized real-time GPS tracking dashboard designed for livestock monitoring, featuring live herd mapping, geofencing, and historical movement analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
